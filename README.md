@@ -8,8 +8,7 @@
 
   Para facilitar a identificação, os componentes das placas estão numerados na casa das centenas, de acordo com o seu módulo no esquemático. Por exemplo, a centena 100 é destinada aos componentes da regulagem de tensão, enquanto a centena 200 é reservada para os componentes do MCU, e assim por diante.
 
-====================================================================================================================================================================================================================
-
+=========================================================================================================================================
   Segue abaixo a pinagem da placa dianteira no board view:
   
 ![Captura de tela 2023-11-03 023253](https://github.com/UFPR-Baja-SAE/PCBs-2023/assets/108413478/004fa8b5-c5ad-4c2c-88e1-bebcbf12e9aa)
@@ -20,7 +19,7 @@
 
 ![Captura de tela 2023-11-03 022918](https://github.com/UFPR-Baja-SAE/PCBs-2023/assets/108413478/936f3b57-ce7c-4794-b2d2-4e5a0cd2f364)
 
-====================================================================================================================================================================================================================
+=========================================================================================================================================
 
  Segue abaixo a pinagem da placa traeira no board view:
 
