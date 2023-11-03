@@ -1,10 +1,10 @@
   Segue abaixo o diagrama das PCBs da central dianteira e central traseira:
 
+![Captura de tela 2023-11-03 023940](https://github.com/UFPR-Baja-SAE/PCBs-2023/assets/108413478/aa58062a-c0e1-4c19-88bb-2ae22bb5bf20)
 
-![Captura de tela 2023-11-03 020110](https://github.com/UFPR-Baja-SAE/PCBs-2023/assets/108413478/0feaf54e-fc10-404a-9599-3d36ce04588e)
 
+![Captura de tela 2023-11-03 024133](https://github.com/UFPR-Baja-SAE/PCBs-2023/assets/108413478/87839eca-f8ab-4317-bee8-ab8a5c8e01d0)
 
-![Captura de tela 2023-11-03 020302](https://github.com/UFPR-Baja-SAE/PCBs-2023/assets/108413478/5105ef16-1f64-4844-99c6-1399f8b20a87)
 
   Para facilitar a identificação, os componentes das placas estão numerados na casa das centenas, de acordo com o seu módulo no esquemático. Por exemplo, a centena 100 é destinada aos componentes da regulagem de tensão, enquanto a centena 200 é reservada para os componentes do MCU, e assim por diante.
 
