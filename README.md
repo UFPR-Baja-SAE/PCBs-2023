@@ -12,6 +12,8 @@
 
 
   Segue abaixo a pinagem da placa dianteira no board view:
+
+
   
 ![Captura de tela 2023-11-03 023253](https://github.com/UFPR-Baja-SAE/PCBs-2023/assets/108413478/004fa8b5-c5ad-4c2c-88e1-bebcbf12e9aa)
 
